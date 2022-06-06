@@ -1,0 +1,14 @@
+body{
+  height: 97vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+div{
+  height: 300px;
+  width: 600px;
+    background-color: #EEE;
+  }

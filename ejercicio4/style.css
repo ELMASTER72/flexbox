@@ -1,0 +1,28 @@
+body{
+    width: 97vh auto;
+}
+
+
+.imagenes{
+    width: 1000px auto;
+    height: 1000px auto;
+    background-color: rgba(87, 87, 87, 0.24);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 50px;
+    margin: 20px;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    color: aliceblue;
+    border: 5px solid rgba(0, 0, 0, 0.349);
+    background-color: rgba(97, 91, 91, 0.356);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    
+}
